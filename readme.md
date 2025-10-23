@@ -1,5 +1,6 @@
-#Langkah-langkah
-- pull repository https://github.com/wawan876/webautomationteststore.git
+bagi yang mau pull repository https://github.com/wawan876/webautomationteststore.git
+
+#Langkah-langkah setup di visual code
 - ketikkan perintah di terminal npm install cypress
 <img width="705" height="129" alt="image" src="https://github.com/user-attachments/assets/fbade69c-84fa-4b38-8f3f-f181d01249bf" />
 
@@ -12,4 +13,5 @@
 
 - pilih scaffold examples
 <img width="1362" height="658" alt="image" src="https://github.com/user-attachments/assets/c10125d6-23f1-4527-8835-710dec725051" />
+
 
