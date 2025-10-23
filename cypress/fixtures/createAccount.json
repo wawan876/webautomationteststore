@@ -1,0 +1,18 @@
+
+    {
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "john.dgf4578oe@gmail.com",
+            "telephone": "1234567890",
+            "fax": "0987654321",
+            "company": "Example Inc.",
+            "address1": "123 Main St",
+            "address2": "Apt 4B",
+            "city": "Los Angeles",
+            "postCode": "90001",
+            "country": "United States",
+            "region": "California",
+            "loginName": "john567ff90lwawan",
+            "loginPassword": "password123",
+            "loginPasswordConfirm": "password123"
+    }
