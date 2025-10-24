@@ -2,7 +2,11 @@
     {
             "firstName": "John",
             "lastName": "Doe",
+<<<<<<< HEAD
             "email": "wawannnuy@gmail.com",
+=======
+            "email": "john.dgf4578oe@gmail.com",
+>>>>>>> fdf35baf562ff245cb4cba131b26b721cbfe5c59
             "telephone": "1234567890",
             "fax": "0987654321",
             "company": "Example Inc.",
@@ -12,7 +16,11 @@
             "postCode": "90001",
             "country": "United States",
             "region": "California",
+<<<<<<< HEAD
             "loginName": "jwawanuti90",
+=======
+            "loginName": "john567ff90lwawan",
+>>>>>>> fdf35baf562ff245cb4cba131b26b721cbfe5c59
             "loginPassword": "password123",
             "loginPasswordConfirm": "password123"
     }
