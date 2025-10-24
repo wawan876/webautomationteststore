@@ -8,6 +8,7 @@
 // https://on.cypress.io/custom-commands
 // ***********************************************
 // -- This is a parent command --
+
 // Cypress.Commands.add('login', (email, password) => { ... })
 Cypress.Commands.add('visitUrl', () => {
     cy.visit('https://automationteststore.com/')
@@ -33,6 +34,13 @@ Cypress.Commands.add('registerAccount', (data) => {
     cy.get("#AccountFrm_newsletter1").click()
     cy.get("#AccountFrm_agree").click()
     cy.xpath("//button[@class='btn btn-orange pull-right lock-on-click']").click()
+})
+
+Cypress.Commands.add('Login', (data) => {
+    cy.xpath ("//a[.='Login or register']").click()
+    cy.get ("#loginFrm_loginname").type(data.loginName)
+    cy.get ("#loginFrm_password").type(data.loginPassword)
+    cy.xpath ("//button[contains(.,'Login')]").click()
 })
 //
 //
